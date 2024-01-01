@@ -1,6 +1,6 @@
 # HI THERE, WELCOME TO MY GITHUB PAGE👋
 
-## :tw-1f680: About Me
+## About Me
 
 Hi there, my name is Ayşe Konuş.
 
