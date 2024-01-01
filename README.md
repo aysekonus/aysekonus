@@ -1,5 +1,7 @@
 # HI THERE, WELCOME TO MY GITHUB PAGE👋
-
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/3SL41WtN5l9DNdPJGs/giphy.gif?cid=ecf05e47oiy01zb948w16vp3tp9j6hm4dj6948z5msrxk0gz&ep=v1_gifs_related&rid=giphy.gif&ct=ts" width="200"/>
+</div>
 ## About Me
 
 Hi there, my name is Ayşe Konuş.
