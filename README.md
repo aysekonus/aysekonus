@@ -1,4 +1,5 @@
 # HI THERE, WELCOME TO MY GITHUB PAGE👋
+[![](https://raw.githubusercontent.com/aysekonus/aysekonus/main/Images/logo.gif)](https://raw.githubusercontent.com/aysekonus/aysekonus/main/Images/logo.gif)
 
 ## About Me
 
