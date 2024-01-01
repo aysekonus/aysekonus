@@ -48,7 +48,9 @@ I work on object-oriented software and am open to learning and development. I am
 
 #
 ### :fire: My GitHub Stats :
-<a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=aysekonus&show_icons=true&border_radius=5&count_private=true&theme=vision-friendly-dark&mode=weekly" alt="Ayse Konus's GitHub Stats" /> </a> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aysekonus&theme=vision-friendly-dark&border_radius=5&mode=weekly)](https://git.io/streak-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=aysekonus&show_icons=true&border_radius=5&count_private=true&theme=vision-friendly-dark&mode=weekly" alt="Ayse Konus's GitHub Stats" /> </a> 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aysekonus&theme=vision-friendly-dark&border_radius=5&mode=weekly)](https://git.io/streak-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysekonus&layout=compact&theme=vision-friendly-dark&border_radius=5"/></a>
 
