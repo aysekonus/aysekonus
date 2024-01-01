@@ -20,3 +20,9 @@ I work on object-oriented software and am open to learning and development. I am
 [instagram]: https://www.instagram.com/ayseekonus
 [linkedin]: https://www.linkedin.com/in/aysekonus/
 <br />
+
+### 📊 GitHub Stats
+
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=aysekonus&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
+ 
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aysekonus&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
